@@ -1,0 +1,7 @@
+# Configuración del servidor que ejecuta la aplicación Streamlit.
+[server]
+headless = true
+
+# No se envían estadísticas de uso del navegador.
+[browser]
+gatherUsageStats = false

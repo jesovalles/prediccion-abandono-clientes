@@ -1,0 +1,5 @@
+# Dependencias de interfaz, preparación, modelado y persistencia del pipeline.
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+streamlit>=1.40,<2
+joblib>=1.4,<2

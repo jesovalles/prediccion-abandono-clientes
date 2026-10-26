@@ -1,0 +1,8 @@
+# Entorno local de Python y archivos temporales de ejecución/pruebas.
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Los modelos se generan en cada entorno y pueden ser grandes.
+models/*.joblib
